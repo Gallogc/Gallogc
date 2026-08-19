@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Ciao, sono Gabriele 👋</h1>
 <h3 align="center">Studente di Informatica alle scuole superiori, in cerca del prossimo bug da risolvere 🐛</h3>
